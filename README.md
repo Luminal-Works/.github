@@ -13,10 +13,12 @@ Luminal Works explores the synergy between sound and code, focusing on:
 * **Aesthetic Utility:** Crafting visual interfaces that make complex audio processing intuitive and inspiring.
 
 ### Current Projects
-* **[grabovoi-app](https://github.com/Luminal-Works/grabovoi-app):** Harmonizing numerical sequences with mobile utility.
 * **Lumina Control:** The NASA-inspired "Control Center" Master EQ, featuring intelligent telemetry and inter-plugin integration.
 * **Lumina Press:** Vintage Motown-style compressor with M/S processing and Inter-Plugin Sync.
 * **Lumina Base:** Sub-harmonic foundation plugin for precision low-end gravitational control.
+* **Lumina Drive:** Vintage console-style saturation and distortion for adding "atmospheric warmth" and grit.
+* **Lumina Dust:** Granular digital convolution plugin for creating vast, atmospheric textures and "lunar" soundscapes.
+* **[grabovoi-app](https://github.com/Luminal-Works/grabovoi-app):** Harmonizing numerical sequences with mobile utility.
 * 
 
 *Building the future of sound and visual intelligence.*
