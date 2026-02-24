@@ -15,4 +15,3 @@ The Link-Sync protocol is the "Deep Space Network" for the Lumina Suite. It allo
 * **Lumina Control** processes incoming telemetry to generate "Correction Curves."
 * These curves are applied as high-precision, low-latency dynamic EQ nodes to ensure the mix never exceeds its "Atmospheric Stability" threshold.
 
-we
