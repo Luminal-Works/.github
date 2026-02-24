@@ -1,0 +1,18 @@
+## 🛰️ Lumina Link-Sync: Telemetry Protocol
+
+The Link-Sync protocol is the "Deep Space Network" for the Lumina Suite. It allows for bi-directional communication between satellite plugins and the Control Center.
+
+### 1. The Handshake Protocol
+* **Detection:** Every Lumina plugin scans the DAW's global memory for the `Lumina_Control_Center` ID.
+* **Confirmation:** Upon detection, the UI triggers the #52D396 "Docking" glow.
+
+### 2. Data Transmission (The Uplink)
+* **Lumina Press** transmits Gain Reduction (GR) values across 32 frequency bands.
+* **Lumina Base** transmits Phase-Alignment status and sub-harmonic intensity.
+* **Lumina Dust** transmits Granular Density and Stereo Spread metrics.
+
+### 3. Automated Command (The Downlink)
+* **Lumina Control** processes incoming telemetry to generate "Correction Curves."
+* These curves are applied as high-precision, low-latency dynamic EQ nodes to ensure the mix never exceeds its "Atmospheric Stability" threshold.
+
+we
